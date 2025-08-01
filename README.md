@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto henryhesdras.com" src="" width="100%">
+ alt="projeto henryhesdras.com" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
