@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-projeto">Projeto</a>
 </p>
 
 
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
- alt="projeto henryhesdras.com" src="" width="100%">
+     projeto henryhesdras.com
 </p>
 
 ## 🚀 Tecnologias
